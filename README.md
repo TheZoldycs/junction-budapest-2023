@@ -3,8 +3,6 @@
 Welcome to the official repository for THE JUNCTION BUDAPEST 2023 HACKATHON, Crufthub Challenge I - "Be a brand ambassador and connect young adults with telecom services!" The ZOLDYCKS TEAM is excited to present our innovative project, ATCHO.
 
 ## Project Overview
-![Project Logo](atcho_backend.png)
-
 
 **Youtube Video for ATCHO Project:** [Watch Video](https://www.youtube.com/watch?v=Qgg5qsUbaVg&ab_channel=TheZoldycks)
 
@@ -13,7 +11,7 @@ Welcome to the official repository for THE JUNCTION BUDAPEST 2023 HACKATHON, Cru
 ## Repository Information
 
 ### 1. Back End Services
-**Repo Code:** [Z-App-Core](https://github.com/TheZoldycs/atcho-backend)
+**Repo Code:** [ATCHO-BACKEND](https://github.com/TheZoldycs/atcho-backend)
 
 This repository contains the back-end services for the ATCHO project. For detailed information on setting up, configuration, and usage, please refer to the accompanying README file.
 
