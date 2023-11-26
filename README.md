@@ -3,6 +3,8 @@
 Welcome to the official repository for THE JUNCTION BUDAPEST 2023 HACKATHON, Crufthub Challenge I - "Be a brand ambassador and connect young adults with telecom services!" The ZOLDYCKS TEAM is excited to present our innovative project, ATCHO.
 
 ## Project Overview
+![Project Logo](atcho_backend.png)
+
 
 **Youtube Video for ATCHO Project:** [Watch Video](https://www.youtube.com/watch?v=Qgg5qsUbaVg&ab_channel=TheZoldycks)
 
