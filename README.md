@@ -34,7 +34,7 @@ Explore the Figma design for the Atcho app to get insights into the user interfa
 To contribute or explore our project, follow these steps:
 
 1. Clone the respective repositories:
-   - Back End Services: `git clone https://github.com/TheZoldycs/z-app-core.git`
+   - Back End Services: `git clone https://github.com/TheZoldycs/atcho-backend.git`
    - Mobile Application: `git clone https://github.com/TheZoldycs/atcho_mobile.git`
 
 2. Refer to the README files in each repository for specific instructions on setup, configuration, and contribution guidelines.
